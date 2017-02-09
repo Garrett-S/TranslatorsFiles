@@ -9,4 +9,7 @@ I will try to keep this site updated with electronic copies of the handouts as t
 - [Lecture Notes]({{ site.baseurl }}{{ post.url }}/PDF/CS_480_lecture_notes.pdf)
 
 ## Sample Code
-- [Sample 1]({{ site.baseurl }}{{ post.url }}/CodeSamples/sampple1.cm)
+- [Sample 1]({{ site.baseurl }}{{ post.url }}/CodeSamples/sample1.cm)
+- [Sample 2]({{ site.baseurl }}{{ post.url }}/CodeSamples/sample2.cm)
+- [Sample 3]({{ site.baseurl }}{{ post.url }}/CodeSamples/sample3.cm)
+- [Sample 4]({{ site.baseurl }}{{ post.url }}/CodeSamples/sample4.cm)
