@@ -7,6 +7,8 @@ I will try to keep this site updated with electronic copies of the handouts as t
 - [Compiler Project]({{ site.baseurl }}{{ post.url }}/PDF/compiler_project.pdf)
 - [Midterm Study Guide]({{ site.baseurl }}{{ post.url }}/PDF/CS_480_midterm_study_guide.pdf)
 - [Lecture Notes]({{ site.baseurl }}{{ post.url }}/PDF/CS_480_lecture_notes.pdf)
+- [C- Abstract Syntax Tree Specification]({{ site.baseurl }}{{ post.url 
+  }}/PDF/SyntaxTreeSpecifications.pdf)
 
 ## Sample Code
 - [Sample 1]({{ site.baseurl }}{{ post.url }}/CodeSamples/sample1.cm)
