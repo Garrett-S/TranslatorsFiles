@@ -15,3 +15,6 @@ I will try to keep this site updated with electronic copies of the handouts as t
 - [Sample 2]({{ site.baseurl }}{{ post.url }}/CodeSamples/sample2.cm)
 - [Sample 3]({{ site.baseurl }}{{ post.url }}/CodeSamples/sample3.cm)
 - [Sample 4]({{ site.baseurl }}{{ post.url }}/CodeSamples/sample4.cm)
+
+## Other Resources
+- [BNF Grammar for C Minus](http://www.sierranevada.edu/snow/ExamplesX/C-Syntax.pdf)
