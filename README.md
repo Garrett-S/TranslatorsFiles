@@ -9,6 +9,7 @@ I will try to keep this site updated with electronic copies of the handouts as t
 - [Lecture Notes]({{ site.baseurl }}{{ post.url }}/PDF/CS_480_lecture_notes.pdf)
 - [C- Abstract Syntax Tree Specification]({{ site.baseurl }}{{ post.url 
   }}/PDF/SyntaxTreeSpecifications.pdf)
+- [Final Study Guide]({{ side.baseurl }}{{ post.url }}/PDF/Final-Study-Guide.pdf)
 
 ## Sample Code
 - [Sample 1]({{ site.baseurl }}{{ post.url }}/CodeSamples/sample1.cm)
